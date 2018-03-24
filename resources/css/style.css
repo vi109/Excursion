@@ -1,26 +1,31 @@
 body {
-  font-family: Verdana; sans-serif;
+  font-family: "Verdana", sans-serif;
   text-align: center;
   background-color: black;
   color: white;
-  font-weight: normal;
+
 }
+
 h1 {
   font-size: 50px;
+  font-weight: normal;
 }
+
 .download {
   color: Aquamarine;
   font-size: 16px;
 }
+
 h2 {
   font-weight: 300;
   font-size: 42px;
 }
+
 p {
   font-size: 21px;
   color: Gray;
 }
+
 footer {
   text-align: right;
-  color: gray;
 }
